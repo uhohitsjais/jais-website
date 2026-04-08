@@ -2,15 +2,15 @@ const testimonials = [
   {
     quote:
       "Jais is the most knowledgeable and trusted go-to person for any platform-related question. Her depth of expertise, combined with exceptional clarity of thought, makes her stand out as someone who can break down even the most complex problems and explain them with remarkable simplicity and detail.",
-    name: "Former Manager",
-    title: "TaskHuman — 2025 Performance Review",
+    name: "Vinay",
+    title: "Director of Product, TaskHuman",
     isPlaceholder: false,
   },
   {
     quote:
       "Jais is an 'unblocker.' She has a strong sense of empathy for her colleagues and drives contentious meetings with diplomacy and purpose. She listens to multiple parties and puts forth alternative viewpoints to facilitate a collaborative relationship between teams. I really appreciate that Jais speaks her mind — this allows us to challenge each other respectfully towards the right solution.",
-    name: "Former Manager",
-    title: "TaskHuman — 2024 Performance Review",
+    name: "Sujatha",
+    title: "VP of Product, TaskHuman",
     isPlaceholder: false,
   },
   {
